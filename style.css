@@ -535,4 +535,12 @@ a {
     font-size: 14px;
   }
 }
+@media (max-width: 480px) {
+  .hero .hero-content .sub-content {
+    width: 70%;
+  }
+  .client-text {
+    text-align: center;
+  }
+}
 /* end media query */

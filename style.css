@@ -544,3 +544,12 @@ a {
   }
 }
 /* end media query */
+/* scrollbar styling */
+::-webkit-scrollbar {
+  width: 15px;
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(#0b0d17, #9b9b9b);
+  border-radius: 7px;
+}
+/* end of scrollbar styling */
